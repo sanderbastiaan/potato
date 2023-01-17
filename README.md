@@ -1,1 +1,4 @@
 # potato
+Soup
+Fried
+Salad
